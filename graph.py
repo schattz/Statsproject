@@ -152,7 +152,7 @@ def plotStateData(dataOld, dataNew, state): #function to plot data state by stat
     plt.legend(loc="best")
     plt.title("Deaths Per Day " + state)
     plt.xlabel("Month")
-    plt.ylabel("People")
+    plt.ylabel("daily covid deaths")
     plt.legend()
   #  plt.show()
     plt.savefig("C:\\Users\\Schat\\Desktop\\stats_project\\state_plots_pdf\\" +state +".pdf")
