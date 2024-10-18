@@ -1,11 +1,9 @@
-# Covid Stats Project
+# COVID Stats Project
 
-In my final year in college I finished my last semster during covid and was also in statistics class. 
-For my project I was curious to compare some of the projection models for covid and to see how close the numbers were
-after that time has past. 
+In my final year of college, I completed my last semester during COVID and was also in a statistics class. For my project, I was curious to compare some of the projection models for COVID and see how close the numbers were after some time had passed.
 
-Utilized python and matplotlib to graph data of projection models and the true numbers after the time period. 
+I utilized Python and Matplotlib to graph the data from the projection models against the actual numbers after the time period.
 
-My assesment is in the [covidreport](https://github.com/schattz/Statsproject/blob/master/covidreport.pdf). 
+My assessment can be found in the [covidreport](https://github.com/schattz/Statsproject/blob/master/covidreport.pdf).
 
-Disclamier I am not a medical expert or statistic and found intrest in the subject.
+Disclaimer: I am not a medical or statistical expert, but I have found interest in the subject.
